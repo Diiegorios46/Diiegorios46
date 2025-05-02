@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
-  <a href="https://www.youtube.com/@tuusuario"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
-  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+  <a href="https://www.linkedin.com/in/Diiegorios46"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+  <a href="https://www.youtube.com/@Diiegorios46"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+  <a href="https://twitter.com/Diiegorios46"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
 </div>
 
 ###
@@ -46,7 +46,7 @@ Soy un desarrollador web de Argentina 🇦🇷<br><br>
 <h3 align="left">📊 My Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark" alt="Diego's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diiegorios46&show_icons=true&theme=dark" alt="Diego's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tuusuario&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Diiegorios46&theme=dark" alt="GitHub Streak" />
 </p>
