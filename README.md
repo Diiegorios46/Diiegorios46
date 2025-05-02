@@ -18,10 +18,13 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Soy un desarrollador web de Argentina 🇦🇷<br><br>
-🔭 Actualmente estoy estudiando.<br>
-🌱 Estoy aprendiendo más sobre React avanzado y animaciones con CSS.<br>
+Soy un desarrollador web en formación, apasionado por crear interfaces intuitivas y responsivas. 🇦🇷<br><br>
+🔭 Actualmente estoy finalizando mi carrera en desarrollo web.<br>
+🌱 Me encuentro profundizando en React, optimización del rendimiento y animaciones modernas con CSS.<br>
+💡 Me interesa construir soluciones prácticas que combinan buen diseño, accesibilidad y funcionalidad.<br>
+🚀 Busco oportunidades para aplicar mis conocimientos en proyectos reales y seguir aprendiendo en equipo.
 </p>
+
 
 ###
 
