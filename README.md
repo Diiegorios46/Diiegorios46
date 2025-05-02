@@ -18,12 +18,13 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Soy un desarrollador web en formación, apasionado por crear interfaces intuitivas y responsivas. 🇦🇷<br><br>
-🔭 Actualmente estoy finalizando mi carrera en desarrollo web.<br>
-🌱 Me encuentro profundizando en React, optimización del rendimiento y animaciones modernas con CSS.<br>
-💡 Me interesa construir soluciones prácticas que combinan buen diseño, accesibilidad y funcionalidad.<br>
-🚀 Busco oportunidades para aplicar mis conocimientos en proyectos reales y seguir aprendiendo en equipo.
+I'm a web developer in training, passionate about building intuitive and responsive interfaces. 🇦🇷<br><br>
+🔭 Currently finishing my degree in web development.<br>
+🌱 I'm deepening my knowledge in React, performance optimization, and modern CSS animations.<br>
+💡 I enjoy creating practical solutions that combine design, accessibility, and functionality.<br>
+🚀 I'm looking for opportunities to apply my skills in real-world projects and grow within a team environment.
 </p>
+
 
 
 ###
