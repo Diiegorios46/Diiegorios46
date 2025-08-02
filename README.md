@@ -5,45 +5,58 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Diiegorios46"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" /
+  <a href="https://www.linkedin.com/in/Diiegorios46">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey there, I'm Diego Rios Web Development.</h1>
+<h1 align="center">Hey there, I'm Diego Rios 👋 | Web Developer</h1>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm a web developer in training, passionate about building intuitive and responsive interfaces. 🇦🇷<br><br>
-🔭 Currently finishing my degree in web development.<br>
-🌱 I'm deepening my knowledge in React, performance optimization, and modern CSS animations.<br>
-💡 I enjoy creating practical solutions that combine design, accessibility, and functionality.<br>
-🚀 I'm looking for opportunities to apply my skills in real-world projects and grow within a team environment.
+I'm a passionate Web Developer from Argentina 🇦🇷, currently finishing my degree in Web Development.  
+I specialize in creating **intuitive, responsive, and performance-oriented applications**, combining clean code with modern design principles.  
+
+💡 Always curious and eager to learn, I'm currently deepening my knowledge in **React, Laravel, and Node.js**.  
+🚀 Looking for opportunities to contribute to real-world projects, collaborate with dynamic teams, and keep growing my skill set.  
+🎯 My focus is on building solutions that integrate **design, accessibility, and functionality** seamlessly.
 </p>
 
-
-
-###
+---
 
 <h3 align="left">🛠️ Frontend</h3>
-  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
-  </div>  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+</div>  
+
 <h3 align="left">🛠️ Backend</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  </div>
-<h3 align="left">🛠️ Tools</h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-<div align="left">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
 </div>
 
-###
+<h3 align="left">🛠️ Tools & Other Skills</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+</div>
+
+---
 
 <h3 align="left">📊 My Stats</h3>
 
